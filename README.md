@@ -1,13 +1,12 @@
 - 👋 @ajgh1
 - 👀 Computer junkie.  Interests include but are not limited to
-  -  Perl, Python, JavaScript
-  -  Shell scripting, preferrably with bash
-  -  Web servers, preferably Apache HTTP Server aka httpd
-  -  Most Web protocols and languages:  HTTP, HTML, CSS, JavaScript
+  -  Perl, Python, Bash, JavaScript
+  -  Web servers, especially Apache httpd
+  -  Other Web-related protocols and languages
   -  Linux
   -  RDBMSes, or emulating them with SQLite
   -  Markdown
-  -  HomeLabs!  #100DaysOfHomeLab
+  -  HomeLabs!
 - 🌱 I’m currently learning:
   - virtualization with VMware
   - containerization with Docker
