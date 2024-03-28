@@ -8,7 +8,7 @@
   -  Markdown
   -  HomeLabs!
 - 🌱 I’m currently learning:
-  - virtualization with VMware
+  - virtualization with ~~VMware~~ Proxmox
   - containerization with Docker
 
 <!---
